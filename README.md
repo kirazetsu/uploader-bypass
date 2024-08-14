@@ -6,6 +6,8 @@ bypass 403
 
 bypass 404
 
+bypass 503
+
 bypass 500 server error
 
 bypass Litespeed
